@@ -1,4 +1,4 @@
-# Lib web3 
+# Lib web3 v1.0.0
 
 ![ethereum](images/eth.png) 
 <br />
